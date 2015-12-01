@@ -1,0 +1,12 @@
+/bin
+/DIST
+/build
+/target
+/ArgoUML-*.tar.gz
+/ArgoUML-*.zip
+/ArgoUML-*.tgz
+/argouml.log
+/.classpath.full
+/.fbwarnings
+/.fbprefs
+/.svn
